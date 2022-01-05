@@ -23,7 +23,7 @@ E<sub>2</sub> X<sub>2</sub> Y<sub>2</sub> Z<sub>2</sub>
 E<sub>3</sub> X<sub>3</sub> Y<sub>3</sub> Z<sub>3</sub>  
 ...  
 
-Where NpF<sub>i</sub> is the number of particles in the frame i, E<sub>i</sub> is the "particle type" for the particle i, (X<sub>i</sub>,Y<sub>i</sub>,Z<sub>i</sub>) is the opsition for the particle i.
+Where NpF<sub>i</sub> is the number of particles in the frame i, E<sub>&alpha;</sub> is the "particle type" of the particle &alpha;, and (X<sub>&alpha;</sub>,Y<sub>&alpha;</sub>,Z<sub>&alpha;</sub>) is the opsition for the particle &alpha;.
 
 When executing it, you will have to pass the maximum number of particles in a frame (be sure this number is big enough or the code will crash, if you don't know the maximum number just set the maximum of int in C) and the name of the file with all the frames, in linux for example:
 
