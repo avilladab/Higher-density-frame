@@ -7,7 +7,7 @@ This program reads a simple ovito file with the following structure
 
 NpF<sub>1</sub>
 
-\t coment_of_frame_1
+&emsp;coment_of_frame_1
 
 E<sub>1</sub> X<sub>1</sub> Y<sub>1</sub> Z<sub>1</sub>
 
@@ -19,7 +19,7 @@ E<sub>3</sub> X<sub>3</sub> Y<sub>3</sub> Z<sub>3</sub>
 
 NpF<sub>2</sub>
 
-   coment_of_frame_2
+&emsp;coment_of_frame_2
 
 E<sub>1</sub> X<sub>1</sub> Y<sub>1</sub> Z<sub>1</sub>
 
