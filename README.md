@@ -15,7 +15,7 @@ NpF<sub>2</sub>
 E<sub>1</sub> X<sub>1</sub> Y<sub>1</sub> Z<sub>1</sub>  
 E<sub>2</sub> X<sub>2</sub> Y<sub>2</sub> Z<sub>2</sub>  
 E<sub>3</sub> X<sub>3</sub> Y<sub>3</sub> Z<sub>3</sub>  
-...
+...  
 NpF<sub>n</sub>  
 &emsp;coment_of_frame_n  
 E<sub>1</sub> X<sub>1</sub> Y<sub>1</sub> Z<sub>1</sub>  
