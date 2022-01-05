@@ -8,7 +8,6 @@ This program reads a simple ovito file with the following structure
 NpF<sub>1</sub>
 
 &emsp;coment_of_frame_1
-
 E<sub>1</sub> X<sub>1</sub> Y<sub>1</sub> Z<sub>1</sub>
 
 E<sub>2</sub> X<sub>2</sub> Y<sub>2</sub> Z<sub>2</sub>
