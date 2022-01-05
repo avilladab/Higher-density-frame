@@ -6,16 +6,27 @@ This program reads a simple ovito file with the following structure
 
 `
 NpF1
+
   coment
+
 E1 X1 Y1 Z1
+
 E2 X2 Y2 Z2
+
 E3 X3 Y3 Z3
+
 ...
+
 NpF2
+
   coment
+
 E1 X1 Y1 Z1
+
 E2 X2 Y2 Z2
+
 E3 X3 Y3 Z3
+
 ...
 `
 
@@ -31,7 +42,10 @@ The output file "frame" will have no extension and it will contain the id of the
 
 `
 1 X1 Y1 Z1
+
 2 X2 Y2 Z2
+
 3 X3 Y3 Z3
+
 ...
 `
